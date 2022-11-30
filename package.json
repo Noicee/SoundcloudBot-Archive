@@ -1,0 +1,16 @@
+{
+  "name": "soundcloud-bot",
+  "version": "1.0.0",
+  "description": "A basic Discord bot utilizing the SoundCloud API. Developed by www.noice.cc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Noice",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "node": "^14.3.0",
+    "soundcloud": "^3.3.2"
+  }
+}

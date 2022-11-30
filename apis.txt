@@ -1,0 +1,10 @@
+Application Client ID: 1BRMajD9kXgL34VfNJLbvKlgCfQmFswG
+Base URL: https://api-v2.soundcloud.com/
+
+
+
+Track List API: https://api-v2.soundcloud.com/users/534419274/tracks?representation=&client_id=1BRMajD9kXgL34VfNJLbvKlgCfQmFswG&limit=30&app_version=1590406688&app_locale=en
+
+User API: https://api-v2.soundcloud.com/stream/users/422984948?client_id=1BRMajD9kXgL34VfNJLbvKlgCfQmFswG&limit=20&app_version=1590406688&app_locale=en
+
+Resolve ID from Username: https://api-v2.soundcloud.com/resolve?url=http://soundcloud.com/USERNAME&client_id=1BRMajD9kXgL34VfNJLbvKlgCfQmFswG
